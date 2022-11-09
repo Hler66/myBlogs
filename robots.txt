@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://hler66.github.io/myBlogs/sitemap.xml
